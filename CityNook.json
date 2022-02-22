@@ -9,27 +9,27 @@
       "In": {
         "First": {
           "Content": "We're Raven.",
-          "Layout": 0,
+          "Layout": 1,
           "Timing": 3000
         },
         "Second": {
           "Content": "Useful stuff, everywhere.<br> We know how to get what<br> we want!",
-          "Layout": 0,
+          "Layout": 1,
           "Timing": 6000
         },
         "Third": {
           "Content": "Open that bin? Bend a wire?<br> Crack a nut under car tyres?<br> We've figured it all out.",
-          "Layout": 0,
+          "Layout": 1,
           "Timing": 7000
         }
       },
       "BirdTalk": {
         "Content": "",
-        "Layout": 0
+        "Layout": 2
       },
       "VisitorTalk": {
         "Content": "",
-        "Layout": 0
+        "Layout": 3
       },
       "Unsuccessful": {
         "Content": "You'll nail it this time! Keep at it.",
@@ -55,27 +55,27 @@
       "In": {
         "First": {
           "Content": "We're Galah.",
-          "Layout": 0,
+          "Layout": 1,
           "Timing": 3000
         },
         "Second": {
           "Content": "Follow the food.<br> We go where the grub is.",
-          "Layout": 0,
+          "Layout": 1,
           "Timing": 6000
         },
         "Third": {
           "Content": "Lots of food means lots of us.<br> But when the weather's out<br> of whack, so are we.",
-          "Layout": 0,
+          "Layout": 1,
           "Timing": 7000
         }
       },
       "BirdTalk": {
         "Content": "",
-        "Layout": 0
+        "Layout": 2
       },
       "VisitorTalk": {
         "Content": "",
-        "Layout": 0
+        "Layout": 3
       },
       "Unsuccessful": {
         "Content": "You'll nail it this time! Keep at it.",
@@ -101,22 +101,22 @@
       "In": {
         "First": {
           "Content": "We're Magpie.",
-          "Layout": 0,
+          "Layout": 1,
           "Timing": 3000
         },
         "Second": {
           "Content": "Oi! Too close!<br> Little-chicks live here!",
-          "Layout": 0,
+          "Layout": 1,
           "Timing": 6000
         }
       },
       "BirdTalk": {
         "Content": "",
-        "Layout": 0
+        "Layout": 2
       },
       "VisitorTalk": {
         "Content": "",
-        "Layout": 0
+        "Layout": 3
       },
       "Unsuccessful": {
         "Content": "You'll nail it this time! Keep at it.",
@@ -142,22 +142,22 @@
       "In": {
         "First": {
           "Content": "We're Peregrine Falcon.",
-          "Layout": 0,
+          "Layout": 1,
           "Timing": 3000
         },
         "Second": {
           "Content": "Tower-cliff, windowsill-crag,<br> concrete-rock. Same thing,<br> still ours!",
-          "Layout": 0,
+          "Layout": 1,
           "Timing": 6000
         }
       },
       "BirdTalk": {
         "Content": "",
-        "Layout": 0
+        "Layout": 2
       },
       "VisitorTalk": {
         "Content": "",
-        "Layout": 0
+        "Layout": 3
       },
       "Unsuccessful": {
         "Content": "You'll nail it this time! Keep at it.",
