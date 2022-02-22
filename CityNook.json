@@ -1,0 +1,178 @@
+{
+  "City_Nook": {
+    "Raven": {
+      "StandStill": {
+        "Content": "Please hold still...",
+        "Layout": 0,
+        "Timing": 5000
+      },
+      "In": {
+        "First": {
+          "Content": "We're Raven.",
+          "Layout": 0,
+          "Timing": 3000
+        },
+        "Second": {
+          "Content": "Useful stuff, everywhere.<br> We know how to get what<br> we want!",
+          "Layout": 0,
+          "Timing": 6000
+        },
+        "Third": {
+          "Content": "Open that bin? Bend a wire?<br> Crack a nut under car tyres?<br> We've figured it all out.",
+          "Layout": 0,
+          "Timing": 7000
+        }
+      },
+      "BirdTalk": {
+        "Content": "",
+        "Layout": 0
+      },
+      "VisitorTalk": {
+        "Content": "",
+        "Layout": 0
+      },
+      "Unsuccessful": {
+        "Content": "You'll nail it this time! Keep at it.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Successful": {
+        "Content": "Well done, you've clearly done this before!",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Out": {
+        "Content": "We work together.<br> Show and tell. Maybe we'll<br> teach you, too.",
+        "Layout": 0
+      }
+    },
+    "Galah": {
+      "StandStill": {
+        "Content": "Please hold still...",
+        "Layout": 0,
+        "Timing": 5000
+      },
+      "In": {
+        "First": {
+          "Content": "We're Galah.",
+          "Layout": 0,
+          "Timing": 3000
+        },
+        "Second": {
+          "Content": "Follow the food.<br> We go where the grub is.",
+          "Layout": 0,
+          "Timing": 6000
+        },
+        "Third": {
+          "Content": "Lots of food means lots of us.<br> But when the weather's out<br> of whack, so are we.",
+          "Layout": 0,
+          "Timing": 7000
+        }
+      },
+      "BirdTalk": {
+        "Content": "",
+        "Layout": 0
+      },
+      "VisitorTalk": {
+        "Content": "",
+        "Layout": 0
+      },
+      "Unsuccessful": {
+        "Content": "You'll nail it this time! Keep at it.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Successful": {
+        "Content": "Well done, you've clearly done this before!",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Out": {
+        "Content": "Pass it on, pass it on!",
+        "Layout": 0
+      }
+    },
+    "Magpie": {
+      "StandStill": {
+        "Content": "Please hold still...",
+        "Layout": 0,
+        "Timing": 5000
+      },
+      "In": {
+        "First": {
+          "Content": "We're Magpie.",
+          "Layout": 0,
+          "Timing": 3000
+        },
+        "Second": {
+          "Content": "Oi! Too close!<br> Little-chicks live here!",
+          "Layout": 0,
+          "Timing": 6000
+        }
+      },
+      "BirdTalk": {
+        "Content": "",
+        "Layout": 0
+      },
+      "VisitorTalk": {
+        "Content": "",
+        "Layout": 0
+      },
+      "Unsuccessful": {
+        "Content": "You'll nail it this time! Keep at it.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Successful": {
+        "Content": "Well done, you've clearly done this before!",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Out": {
+        "Content": "We keep our family strong so<br> we can sing to the sunrise sky.",
+        "Layout": 0
+      }
+    },
+    "Falcon": {
+      "StandStill": {
+        "Content": "Please hold still...",
+        "Layout": 0,
+        "Timing": 5000
+      },
+      "In": {
+        "First": {
+          "Content": "We're Peregrine Falcon.",
+          "Layout": 0,
+          "Timing": 3000
+        },
+        "Second": {
+          "Content": "Tower-cliff, windowsill-crag,<br> concrete-rock. Same thing,<br> still ours!",
+          "Layout": 0,
+          "Timing": 6000
+        }
+      },
+      "BirdTalk": {
+        "Content": "",
+        "Layout": 0
+      },
+      "VisitorTalk": {
+        "Content": "",
+        "Layout": 0
+      },
+      "Unsuccessful": {
+        "Content": "You'll nail it this time! Keep at it.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Successful": {
+        "Content": "Well done, you've clearly done this before!",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Out": {
+        "Content": "Strong heads, sharp eyes, so we<br> survive the dive...<br> And they don't.",
+        "Layout": 0
+      }
+    }
+  }
+}
