@@ -1,0 +1,525 @@
+{
+  "NookData": {
+    "Raven": {
+      "Detected": {
+        "Content": "Hello!<br> You startled us.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "StandStill": {
+        "Content": "Please hold still...",
+        "Layout": 0,
+        "Timing": 5000
+      },
+      "In": {
+        "First": {
+          "Content": "We're Raven.",
+          "Layout": 1,
+          "Timing": 2000
+        },
+        "Second": {
+          "Content": "Useful stuff, everywhere.<br> We know how to get what<br> we want!",
+          "Layout": 1,
+          "Timing": 3000
+        },
+        "Third": {
+          "Content": "Open that bin? Bend a wire?<br> Crack a nut under car tyres?<br> We've figured it all out.",
+          "Layout": 1,
+          "Timing": 4000
+        }
+      },
+      "BirdTalk": {
+        "Content": "",
+        "Layout": 2
+      },
+      "VisitorTalk": {
+        "Content": "",
+        "Layout": 3
+      },
+      "Unsuccessful": {
+        "Content": "You'll nail it this time! Keep at it.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Successful": {
+        "Content": "Well done, you've clearly done this before!",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Out": {
+        "Content": "We work together.<br> Show and tell. Maybe we'll<br> teach you, too.",
+        "Layout": 0
+      }
+    },
+    "Galah": {
+      "Detected": {
+        "Content": "Hello!<br> You startled us.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "StandStill": {
+        "Content": "Please hold still...",
+        "Layout": 0,
+        "Timing": 5000
+      },
+      "In": {
+        "First": {
+          "Content": "We're Galah.",
+          "Layout": 1,
+          "Timing": 2000
+        },
+        "Second": {
+          "Content": "Follow the food.<br> We go where the grub is.",
+          "Layout": 1,
+          "Timing": 3000
+        },
+        "Third": {
+          "Content": "Lots of food means lots of us.<br> But when the weather's out<br> of whack, so are we.",
+          "Layout": 1,
+          "Timing": 4000
+        }
+      },
+      "BirdTalk": {
+        "Content": "",
+        "Layout": 2
+      },
+      "VisitorTalk": {
+        "Content": "",
+        "Layout": 3
+      },
+      "Unsuccessful": {
+        "Content": "You'll nail it this time! Keep at it.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Successful": {
+        "Content": "Well done, you've clearly done this before!",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Out": {
+        "Content": "Pass it on, pass it on!",
+        "Layout": 0
+      }
+    },
+    "Magpie": {
+      "Detected": {
+        "Content": "Hello!<br> You startled us.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "StandStill": {
+        "Content": "Please hold still...",
+        "Layout": 0,
+        "Timing": 5000
+      },
+      "In": {
+        "First": {
+          "Content": "We're Magpie.",
+          "Layout": 1,
+          "Timing": 2000
+        },
+        "Second": {
+          "Content": "Oi! Too close!<br> Little-chicks live here!",
+          "Layout": 1,
+          "Timing": 4000
+        }
+      },
+      "BirdTalk": {
+        "Content": "",
+        "Layout": 2
+      },
+      "VisitorTalk": {
+        "Content": "",
+        "Layout": 3
+      },
+      "Unsuccessful": {
+        "Content": "You'll nail it this time! Keep at it.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Successful": {
+        "Content": "Well done, you've clearly done this before!",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Out": {
+        "Content": "We keep our family strong so<br> we can sing to the sunrise sky.",
+        "Layout": 0
+      }
+    },
+    "Falcon": {
+      "Detected": {
+        "Content": "Hello!<br> You startled us.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "StandStill": {
+        "Content": "Please hold still...",
+        "Layout": 0,
+        "Timing": 5000
+      },
+      "In": {
+        "First": {
+          "Content": "We're Peregrine Falcon.",
+          "Layout": 1,
+          "Timing": 2000
+        },
+        "Second": {
+          "Content": "Tower-cliff, windowsill-crag,<br> concrete-rock. Same thing,<br> still ours!",
+          "Layout": 1,
+          "Timing": 4000
+        }
+      },
+      "BirdTalk": {
+        "Content": "",
+        "Layout": 2
+      },
+      "VisitorTalk": {
+        "Content": "",
+        "Layout": 3
+      },
+      "Unsuccessful": {
+        "Content": "You'll nail it this time! Keep at it.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Successful": {
+        "Content": "Well done, you've clearly done this before!",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Out": {
+        "Content": "Strong heads, sharp eyes, so we<br> survive the dive...<br> And they don't.",
+        "Layout": 0
+      }
+    },
+    "Emu": {
+      "Detected": {
+        "Content": "Hello!<br> You startled us.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "StandStill": {
+        "Content": "Please hold still...",
+        "Layout": 0,
+        "Timing": 5000
+      },
+      "In": {
+        "First": {
+          "Content": "We're Emu.",
+          "Layout": 1,
+          "Timing": 2000
+        },
+        "Second": {
+          "Content": "What are you up to?<br> We're watching.",
+          "Layout": 1,
+          "Timing": 4000
+        }
+      },
+      "BirdTalk": {
+        "Content": "",
+        "Layout": 2
+      },
+      "VisitorTalk": {
+        "Content": "",
+        "Layout": 3
+      },
+      "Unsuccessful": {
+        "Content": "You'll nail it this time! Keep at it.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Successful": {
+        "Content": "Well done, you've clearly done this before!",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Out": {
+        "Content": "Our ancient legs weave a<br> wobbly path. Which way next?<br> Try to guess!",
+        "Layout": 0
+      }
+    },
+    "PlainsWanderer": {
+      "Detected": {
+        "Content": "Hello!<br> You startled us.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "StandStill": {
+        "Content": "Ooo, don't look. We're not here.",
+        "Layout": 0,
+        "Timing": 5000
+      },
+      "In": {
+        "First": {
+          "Content": "We're Plains Wanderer.",
+          "Layout": 0,
+          "Timing": 2000
+        },
+        "Second": {
+          "Content": "Don't watch that male protect our eggs, either.",
+          "Layout": 0,
+          "Timing": 4000
+        }
+      },
+      "BirdTalk": {
+        "Content": "",
+        "Layout": 2
+      },
+      "VisitorTalk": {
+        "Content": "",
+        "Layout": 3
+      },
+      "Unsuccessful": {
+        "Content": "You'll nail it this time! Keep at it.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Successful": {
+        "Content": "Well done, you've clearly done this before!",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Out": {
+        "Content": "Our hiding spots are getting<br> sparse. Don't look!",
+        "Layout": 0
+      }
+    },
+    "Tawny": {
+      "Detected": {
+        "Content": "Hello!<br> You startled us.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "StandStill": {
+        "Content": "Please hold still...",
+        "Layout": 0,
+        "Timing": 5000
+      },
+      "In": {
+        "First": {
+          "Content": "We're Tawny Frogmouth.",
+          "Layout": 0,
+          "Timing": 2000
+        },
+        "Second": {
+          "Content": "Bumpy-brown, stretched<br> out still. But not logs.",
+          "Layout": 0,
+          "Timing": 4000
+        }
+      },
+      "BirdTalk": {
+        "Content": "",
+        "Layout": 2
+      },
+      "VisitorTalk": {
+        "Content": "",
+        "Layout": 3
+      },
+      "Unsuccessful": {
+        "Content": "You'll nail it this time! Keep at it.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Successful": {
+        "Content": "Well done, you've clearly done this before!",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Out": {
+        "Content": "Big-eyed bug-catchers,<br> swooping through shadows.<br> But not owls.",
+        "Layout": 0
+      }
+    },
+    "Penguin": {
+      "Detected": {
+        "Content": "Hello!<br> You startled us.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "StandStill": {
+        "Content": "Please hold still...",
+        "Layout": 0,
+        "Timing": 5000
+      },
+      "In": {
+        "First": {
+          "Content": "We're Little Penguin.",
+          "Layout": 1,
+          "Timing": 2000
+        },
+        "Second": {
+          "Content": "Our feathers are<br> winter-water-proof!",
+          "Layout": 1,
+          "Timing": 3000
+        },
+        "Third": {
+          "Content": "Special-slippery-sleek on the outside, but all fluff underneath: cold wet out, warm dry in.",
+          "Layout": 1,
+          "Timing": 4000
+        }
+      },
+      "BirdTalk": {
+        "Content": "",
+        "Layout": 2
+      },
+      "VisitorTalk": {
+        "Content": "",
+        "Layout": 3
+      },
+      "Unsuccessful": {
+        "Content": "You'll nail it this time! Keep at it.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Successful": {
+        "Content": "Well done, you've clearly done this before!",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Out": {
+        "Content": "Huk-huk, together is better.<br> Close-knit feathers,<br> close-knit colony.",
+        "Layout": 1
+      }
+    },
+    "Sandpiper": {
+      "Detected": {
+        "Content": "Hello!<br> You startled us.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "StandStill": {
+        "Content": "Please hold still...",
+        "Layout": 0,
+        "Timing": 5000
+      },
+      "In": {
+        "First": {
+          "Content": "We're Curlew Sandpiper.",
+          "Layout": 1,
+          "Timing": 2000
+        },
+        "Second": {
+          "Content": "Pick-poke. Eat more, fly<br> further. So we eat heaps.",
+          "Layout": 1,
+          "Timing": 4000
+        }
+      },
+      "BirdTalk": {
+        "Content": "",
+        "Layout": 2
+      },
+      "VisitorTalk": {
+        "Content": "",
+        "Layout": 3
+      },
+      "Unsuccessful": {
+        "Content": "You'll nail it this time! Keep at it.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Successful": {
+        "Content": "Well done, you've clearly done this before!",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Out": {
+        "Content": "Lo-o-o-ong path to our<br> nesting-place.",
+        "Layout": 1
+      }
+    },
+    "Brolga": {
+      "Detected": {
+        "Content": "Hello!<br> You startled us.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "StandStill": {
+        "Content": "Please hold still...",
+        "Layout": 0,
+        "Timing": 5000
+      },
+      "In": {
+        "First": {
+          "Content": "We're Brolga.",
+          "Layout": 1,
+          "Timing": 2000
+        },
+        "Second": {
+          "Content": "Step after step: same place,<br> same dance, same mate.",
+          "Layout": 1,
+          "Timing": 4000
+        }
+      },
+      "BirdTalk": {
+        "Content": "",
+        "Layout": 2
+      },
+      "VisitorTalk": {
+        "Content": "",
+        "Layout": 3
+      },
+      "Unsuccessful": {
+        "Content": "You'll nail it this time! Keep at it.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Successful": {
+        "Content": "Well done, you've clearly done this before!",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Out": {
+        "Content": "Two of us, together, a team.<br> Time after time.",
+        "Layout": 1
+      }
+    },
+    "Duck": {
+      "Detected": {
+        "Content": "Hello!<br> You startled us.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "StandStill": {
+        "Content": "Please hold still...",
+        "Layout": 0,
+        "Timing": 5000
+      },
+      "In": {
+        "First": {
+          "Content": "We're Chestnut Teal Duck.",
+          "Layout": 1,
+          "Timing": 2000
+        },
+        "Second": {
+          "Content": "See us in pairs, out in the<br> ponds? Our males have a<br> glossy-green sheen.",
+          "Layout": 1,
+          "Timing": 4000
+        }
+      },
+      "BirdTalk": {
+        "Content": "",
+        "Layout": 2
+      },
+      "VisitorTalk": {
+        "Content": "",
+        "Layout": 3
+      },
+      "Unsuccessful": {
+        "Content": "You'll nail it this time! Keep at it.",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Successful": {
+        "Content": "Well done, you've clearly done this before!",
+        "Layout": 0,
+        "Timing": 3000
+      },
+      "Out": {
+        "Content": "We dabble and dive to scoop<br> up the sludge. Our beaks keep<br> the tasty bits in.",
+        "Layout": 1
+      }
+    }
+  }
+}
